@@ -10,6 +10,9 @@ The series walks you through the complete analytical pipeline, from raw microsco
 
 ## 📌 What This Series Covers
 
+- **3D Segmentation & Feature Extraction**  
+  Learn to segment cells and nuclei in 3D organoid datasets.
+  
 - **Exploratory Data Analysis & Quality Assessment**  
   Learn to explore and clean complex 3D organoid datasets.
 
